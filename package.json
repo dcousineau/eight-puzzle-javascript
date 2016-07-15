@@ -1,0 +1,15 @@
+{
+  "name": "@dcousineau/eight-puzzle",
+  "version": "0.1.0",
+  "description": "Eight Puzzle Solver & Utilities",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Cousineau",
+  "license": "MIT"
+}
